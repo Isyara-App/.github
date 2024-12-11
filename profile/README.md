@@ -1,5 +1,6 @@
 # Isyara App
-![Alt text]()
+
+<img width="201" alt="Group 92" src="https://github.com/user-attachments/assets/bc12ea2c-9851-405f-92d1-152ca6360c87">
 
 # Background
 
