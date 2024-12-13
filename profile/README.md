@@ -1,6 +1,7 @@
 # Isyara App
 
-<img width="201" alt="Group 92" src="https://github.com/user-attachments/assets/bc12ea2c-9851-405f-92d1-152ca6360c87">
+<img alt="Group 92" src="https://github.com/user-attachments/assets/55e16c6c-4e75-4f1a-a82a-e3488a36b3d2">
+Isyara is an application designed to improve and increase interactions between the deaf and hard-of-hearing communities. The main features includes real-time sign language translation, which will recognize the hand gesture on the phone's camera then translate it to text. The application also has letters and words dictionaries, user may refer to this as a source for learning the sign language. There will also be quizzes to test the user's knowledge. The application will also provide the latest information regarding the deaf and hard-of-hearing communities, which includes news, article, and more.
 
 # Background
 In Indonesia, a large number of deaf and hard-of-hearing people face significant communication barriers due to their hearing impairments. The challenges lies in the general public's limited understanding of sign languages used by the deaf and hard-of-hearing people, specifically Bahasa Isyarat Indonesia (BISINDO). Therefore, we built an application that hopefully will close this interaction gap. The main feature of the application is to provide a real-time sign language translation from the phone’s camera, after the letter is detected, users can add the letter and combine it to form a word. There are also dictionaries, quizzes and the latest informations.
